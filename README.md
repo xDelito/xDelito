@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python.. the sneak its more friendly than Channel++
+- 🌱 I’m currently learning Python & C++
 
 ###
   <p align="center">
