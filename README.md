@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python & C++
+- 🌱 I’m currently learning Python , C++ & Lua
 
 ###
   <p align="center">
